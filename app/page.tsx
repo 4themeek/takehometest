@@ -1,3 +1,5 @@
+import InquiryForm from "./InquiryForm";
+
 export default function Home() {
   return (
     <>
@@ -61,7 +63,7 @@ export default function Home() {
           />
           <p className="lede">
             The exact-match domain for the fast growing at-home testing category — limited time offering to the
-            pharmaceutical and health-tech acquirer building billions in added revenue, start with a flagship name in
+            pharmaceutical and health-tech acquirer building billions in added revenue, with this flagship name in
             direct-to-consumer diagnostics.
           </p>
           <div className="hero-ctas">
@@ -212,11 +214,9 @@ export default function Home() {
               <h4>Private Inquiry</h4>
               <p>
                 Prefer a direct, confidential conversation? Reach the owner directly to
-                discuss terms without an intermediary. Email below or voice message at (three 8's)440.4707. All purchases made confidently via Escrow.com
+                discuss terms without an intermediary. All purchases made confidently via Escrow.com
               </p>
-              <a href="mailto:4@nym.hush.com?subject=TakeHomeTest.com%20%E2%80%94%20Acquisition%20Inquiry">
-                Email Inquiry
-              </a>
+              <InquiryForm />
             </div>
           </div>
         </div>
