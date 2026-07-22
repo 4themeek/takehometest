@@ -60,8 +60,8 @@ export default function Home() {
             className="hero-logo"
           />
           <p className="lede">
-            The exact-match name for the at-home testing category — offered to the
-            pharmaceutical and health-tech acquirer building the next flagship in
+            The exact-match domain for the fast growing at-home testing category — limited time offering to the
+            pharmaceutical and health-tech acquirer building billions in added revenue, with the next flagship in
             direct-to-consumer diagnostics.
           </p>
           <div className="hero-ctas">
@@ -69,7 +69,7 @@ export default function Home() {
               Review Acquisition Paths
             </a>
             <a className="btn btn-ghost" href="#market">
-              View Market Data
+              View Growth Market Data
             </a>
           </div>
           <div className="hero-strap">
