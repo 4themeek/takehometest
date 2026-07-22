@@ -246,9 +246,7 @@ export default function Home() {
             <a href="https://sedo.com" target="_blank" rel="noopener">
               Sedo
             </a>
-            <a href="mailto:4online@nym.hush.com?subject=TakeHomeTest.com%20%E2%80%94%20Acquisition%20Inquiry">
-              Email
-            </a>
+                        <a href="#acquire">Inquire</a>
           </div>
         </div>
       </footer>
