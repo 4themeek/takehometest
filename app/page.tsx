@@ -187,24 +187,24 @@ export default function Home() {
           <div className="paths">
             <div className="path">
               <span className="pidx">Path I</span>
-              <h4>List on Atom</h4>
+              <h4>Atom</h4>
               <p>
                 Review verified listing details and submit an offer through Atom&rsquo;s
                 brokered marketplace, with escrow and transfer handled end-to-end.
               </p>
               <a href="https://atom.com" target="_blank" rel="noopener">
-                View on Atom
+                Offer via Atom's platform
               </a>
             </div>
             <div className="path">
               <span className="pidx">Path II</span>
-              <h4>List on Sedo</h4>
+              <h4>Sedo</h4>
               <p>
                 Search TakeHomeTest.com on Sedo, the world&rsquo;s largest domain
                 marketplace, to submit an offer directly.
               </p>
               <a href="https://sedo.com" target="_blank" rel="noopener">
-                View on Sedo
+                Offer via Sedo's platform
               </a>
             </div>
             <div className="path featured">
@@ -212,7 +212,7 @@ export default function Home() {
               <h4>Private Inquiry</h4>
               <p>
                 Prefer a direct, confidential conversation? Reach the owner directly to
-                discuss terms without an intermediary.
+                discuss terms without an intermediary. All purchases made confidently via Escrow.com
               </p>
               <a href="mailto:4online@nym.hush.com?subject=TakeHomeTest.com%20%E2%80%94%20Acquisition%20Inquiry">
                 Email Inquiry
@@ -236,7 +236,7 @@ export default function Home() {
             <p className="legal">
               A premium, category-defining domain offered for sale to pharmaceutical
               and health-tech acquirers building in direct-to-consumer diagnostics.
-              Offers invited.
+              Offers invited prior to Auction in Fall of 2026. Don't miss it.
             </p>
           </div>
           <div className="flinks">
