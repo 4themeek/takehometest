@@ -51,15 +51,14 @@ export default function Home() {
 
       <header className="hero">
         <div className="wrap">
-          <svg className="logo-mark">
-            <use href="#thtlogo" />
-          </svg>
           <div className="eyebrow" style={{ justifyContent: "center" }}>
             Premium Domain · DTC Diagnostics
           </div>
-          <h1 className="domain serif">
-            takehome<span className="t">test</span>.com
-          </h1>
+          <img
+            src="https://raw.githubusercontent.com/4themeek/takehometest/main/2TakeHomeTest.png"
+            alt="TakeHomeTest.com"
+            className="hero-logo"
+          />
           <p className="lede">
             The exact-match name for the at-home testing category — offered to the
             pharmaceutical and health-tech acquirer building the next flagship in
