@@ -192,7 +192,7 @@ export default function Home() {
                 Review verified listing details and submit an offer through Atom&rsquo;s
                 brokered marketplace, with escrow and transfer handled end-to-end.
               </p>
-              <a href="https://atom.com" target="_blank" rel="noopener">
+              <a href="https://domains.atom.com/lpd/name/www.takehometest.com">
                 Offer via Atom's platform
               </a>
             </div>
