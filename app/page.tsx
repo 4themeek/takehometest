@@ -183,7 +183,7 @@ export default function Home() {
           <div className="eyebrow">Acquisition</div>
           <h2>Three ways to open a conversation.</h2>
           <p>
-            This listing is available directly and through two established domain
+            TakeHomeTest.com is available directly and through two established domain
             marketplaces. Choose the path that fits your procurement process.
           </p>
           <div className="paths">
