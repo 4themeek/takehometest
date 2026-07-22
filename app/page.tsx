@@ -61,7 +61,7 @@ export default function Home() {
           />
           <p className="lede">
             The exact-match domain for the fast growing at-home testing category — limited time offering to the
-            pharmaceutical and health-tech acquirer building billions in added revenue, with this flagship name in
+            pharmaceutical and health-tech acquirer building billions in added revenue, start with a flagship name in
             direct-to-consumer diagnostics.
           </p>
           <div className="hero-ctas">
