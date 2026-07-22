@@ -140,9 +140,9 @@ export default function Home() {
             <div className="fit-row">
               <div className="fit-roman">I</div>
               <div className="fit-body">
-                <h4>Exact-Match Consumer Intent</h4>
+                <h4>Exact-Match, Instantly Memorable, Consumer Intent</h4>
                 <p>
-                  &ldquo;Take home test&rdquo; is the plain-language phrase consumers
+                  &ldquo;Take home test&rdquo; is the simple phrase consumers
                   already search for at-home diagnostics — infectious disease,
                   fertility, hormone, and chronic-condition screening alike. The domain
                   matches demand as it already exists, not as a brand hopes to shape it.
